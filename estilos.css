@@ -1,0 +1,26 @@
+#map{
+        border:1px salmon solid;
+        font-size: 50px;       
+        width: 50%;
+        height: 50%;
+        margin: 0 auto;
+        text-align: center;
+}
+
+body{
+
+    background-color:aquamarine;
+
+}
+
+#div2{
+
+    font-size: 20px;       
+    width: 10%;
+    height: 50%;
+    margin: 0 auto;
+    text-align: center;
+
+
+
+}
